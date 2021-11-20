@@ -4,6 +4,6 @@ The goal of this project is to minimize the dwell time of cyberattacks. The trai
   
 The initial proposal of the project is in the Proposal folder  
 More details about the project is in the Description folder  
-The results and visulization is in the Presentation folder
-The code of the project is in the Code folder
-The datasets not uploaded because of its size (feel free to contact me if you need it)    
+The results and visulization is in the Presentation folder  
+The code of the project is in the Code folder  
+The datasets not uploaded because of its size (feel free to contact me if you need it)     
